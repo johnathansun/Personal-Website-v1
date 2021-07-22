@@ -31,7 +31,6 @@ facebook_username: johnathan.sun.7
 theme: minima
 plugins:
   - jekyll-feed
-show_excerpts: true
 
 header_pages:
   - home.md
