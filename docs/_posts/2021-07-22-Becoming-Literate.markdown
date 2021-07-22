@@ -9,14 +9,14 @@ During this pandemic, I’ve tried to rekindle a habit of consistently reading f
 
 ## Books I’ve Read
 
-- *Le Rouge et le Noir* by Stendhal | July 2021
-- *Logic* by Wilfrid Hodges | July 2021
-- *Pride and Prejudice* by Jane Austen | June 2021
-- *An Essay on Human Understanding* by John Locke | June 2021
-- *As I Lay Dying* by William Faulkner | April 2021
-- The Secret History by Donna Tartt (thanks JJ!) | April 2021
-- *The Ideological Origins of the American Revolution* by Bernard Bailyn | March 2021
-- *Thinking Fast and Slow* by Daniel Kahneman | January 2021
-- *The Color of Water* by James McBride | January 2021
-- *The Thief and the Dogs* by Naguib Mahfouz | November 2020
-- *The Innovators* by Walter Isaacson | September 2020
+- *Le Rouge et le Noir* by Stendhal, July 2021
+- *Logic* by Wilfrid Hodges, July 2021
+- *Pride and Prejudice* by Jane Austen, June 2021
+- *An Essay on Human Understanding* by John Locke, June 2021
+- *As I Lay Dying* by William Faulkner, April 2021
+- The Secret History by Donna Tartt (thanks JJ!), April 2021
+- *The Ideological Origins of the American Revolution* by Bernard Bailyn, March 2021
+- *Thinking Fast and Slow* by Daniel Kahneman, January 2021
+- *The Color of Water* by James McBride, January 2021
+- *The Thief and the Dogs* by Naguib Mahfouz, November 2020
+- *The Innovators* by Walter Isaacson, September 2020
