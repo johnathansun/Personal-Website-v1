@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: home
 title: Thoughts
 permalink: /thoughts/
 ---
-
-This should be my page full of thoughts!
