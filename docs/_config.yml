@@ -31,11 +31,7 @@ facebook_username: johnathan.sun.7
 theme: minima
 plugins:
   - jekyll-feed
-
-header_pages:
-  - home.md
-  - about.md
-  - thoughts.md
+show_excerpts: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
