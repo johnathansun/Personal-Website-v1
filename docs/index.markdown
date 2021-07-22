@@ -3,5 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: Landing Page
+title: Hello!
 ---
+
+I’m a student in the US interested in philosophy, economics, and global development. This website is a veritable chopped salad of my thoughts and musings. Find out more about me and get in touch!
