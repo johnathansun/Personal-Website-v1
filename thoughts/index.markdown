@@ -1,5 +1,5 @@
 ___
-# This file is at '.\blog\index.markdown'
+# This file is at '.\thoughts\index.markdown'
 
 layout: home
 title: Thoughts
